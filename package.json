@@ -1,0 +1,20 @@
+{
+  "name": "skypebot",
+  "version": "1.0.0",
+  "description": "simple skype bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "skype",
+    "bot"
+  ],
+  "author": "zhelnov",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "restify": "^4.3.0",
+    "ws": "^1.1.1"
+  }
+}
